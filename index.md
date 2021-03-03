@@ -79,3 +79,14 @@ print(readin_dic)
 print(readin_dic[3])
 pickle_in.close()
 ```
+![Figure 1a:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture1a.png "Assignment7 script in PyCharm to demonstrate exception handling and pickling")
+![Figure 1b:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture1b.png "Assignment7 script in PyCharm to demonstrate exception handling and pickling")
+#### Figure 1: Python script for Assignment 7
+![Figure 2:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture2.png "Running the script in PyCharm")
+#### Figure 2: Running the script in PyCharm
+![Figure 3:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture3.png "Verifying that the test.txt file has the saved the data in a binary format")
+#### Figure 3: Verifying that test.txt file saved the data in a binary format
+![Figure 4:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture4.png "Running the script on the terminal")
+#### Figure 4: Running the script on the terminal
+![Figure 5:](https://github.com/pjoshi-beep/IT-Fnd100-mod7/blob/main/Picture5.png "Verifying that running the script on the terminal created a test.txt file and saved data in a binary format")
+#### Figure 5: Verifying that test.txt file saved data in a binary format
